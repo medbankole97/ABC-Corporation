@@ -1,4 +1,13 @@
 
+   # Rendez-vous dans mon repository Github pour avoir acces aux ressources :
+   ```bash
+   https://github.com/medbankole97/ABC-Corporation.git
+
+   
+
+   git clone https://github.com/medbankole97/ABC-Corporation.git
+   ```
+
  # 1-Organisation du Projet
      Après avoir analysé les ressources fournies, le projet a été organisé et planifié sur Trello. Les tâches ont été décomposées comme suit :
 
@@ -21,14 +30,6 @@
 # 2-Étapes pour Prendre en Main le Projet
 ## Instructions d'Installation
 
-
-
-1. **rendez-vous dans mon repository Github pour avoir acces aux ressources :**
-   ```bash
-   https://github.com/medbankole97/ABC-Corporation.git
-
-   git clone https://github.com/medbankole97/ABC-Corporation.git
-   
 
   ### - Prérequis :
 	Un SGBDR (Système de Gestion de Base de Données Relationnelle) tel que MySQL
