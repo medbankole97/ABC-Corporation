@@ -34,7 +34,7 @@
 	Un SGBDR (Système de Gestion de Base de Données Relationnelle) tel que MySQL
 	Accès aux scripts SQL et aux ressources documentaires
 
-    
+
 
 **Pour se connecter aux mysql**
 ![](./Images/connexionmysql.PNG)
@@ -108,7 +108,7 @@ CREATE TABLE order_details (
     FOREIGN KEY (product_id) REFERENCES products(id)
 );
 ```
-  ### Points d’Améliorations Possibles
+  # 3-Points d’Améliorations Possibles
     Automatisation de la Migration des Données :
 
     Développer des scripts pour automatiser la migration des données depuis différents formats de fichiers (CSV, Excel, etc.).
